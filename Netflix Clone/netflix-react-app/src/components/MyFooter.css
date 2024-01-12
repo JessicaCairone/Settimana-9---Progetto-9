@@ -1,0 +1,27 @@
+.footer{
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+}
+
+.list ul li {
+    list-style: none;
+    line-height: 2.5;
+  
+}
+
+.list {
+    padding-left: 4%;
+    padding-right: 20%;
+}
+
+.h6{
+    margin-left: 6%;
+}
+
+.list ul li a {
+    text-decoration: none;
+    color: grey;
+
+}
